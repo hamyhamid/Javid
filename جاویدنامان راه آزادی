@@ -1,0 +1,32 @@
+{
+  "جاویدنامان راه آزادی": [
+    {
+      "id": 1,
+      "name": "نیکا شاکرمی",
+      "age": 30,
+      "birthday": "1378-01-15",
+      "deathDay": "1401-07-12",
+      "cityOfBirth": "کرج",
+      "cityOfDeath": "تهران",
+    "job": "دانشجو"
+      "job-desciption": "هنر"
+      "job-place": "تهران"
+    "": "دانشجو"
+
+
+
+
+    },
+    {
+      "id": 2,
+      "name": "مجیدرضا رهنورد",
+      "age": 25,
+      "birthday": "1994-04-22",
+      "deathDay": null,
+      "cityOfBirth": "Gotham",
+      "cityOfDeath": null,
+      "job": "Graphic Designer"
+    }
+  ]
+}
+
